@@ -5,7 +5,7 @@ if($name){
     echo $name ;
 }
 else{
-    echo 'love is dangarus';
+    echo 'love is dangerous';
 
     
 }
